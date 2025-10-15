@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🛡️ Felix Voigt | Cybersecurity Student  
 
-<!--
-**hashMaestro/hashMaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DE:**  
+Informatikstudent mit Fokus auf **Cybersecurity**, insbesondere **WebApp Security**, **API Testing** und **Cloud Security**.  
+Auf diesem Profil teile ich **Writeups**, **Script-Snippets** und Projekte.
 
-Here are some ideas to get you started:
+**EN:**  
+Computer Science student focused on **Cybersecurity**, especially **WebApp Security**, **API Testing**, and **Cloud Security**.  
+This GitHub showcases **writeups**, **script snippets**, and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Focus
+`Nmap` · `Burp Suite` · `Postman` · `Docker` · `AWS` · `Virtualbox` · `Linux`
+
+
+---
+
+### 📫 Contact / Kontakt
+📧 [Email](mailto:f3lix.voigt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/felix-voigt-a65040382/)
