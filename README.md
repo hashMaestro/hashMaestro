@@ -10,7 +10,7 @@ This GitHub showcases **writeups**, **script snippets**, and projects.
 
 ---
 
-### ⚙️ Tech Focus
+### ⚙️ Tech 
 `Nmap` · `Burp Suite` · `Postman` · `Docker` · `AWS` · `Virtualbox` · `Linux`
 
 
