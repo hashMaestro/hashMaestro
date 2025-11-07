@@ -2,11 +2,11 @@
 
 **DE:**  
 Informatikstudent mit Fokus auf **Cybersecurity**, insbesondere **WebApp Security**, **API Testing** und **Cloud Security**.  
-Auf diesem Profil teile ich **Writeups**, **Script-Snippets** und **Projekte**.
+Auf diesem Profil teile ich **Writeups**, **Script-Snippets**, **Projekte** und **Blogs**.
 
 **EN:**  
 Computer Science student focused on **Cybersecurity**, especially **WebApp Security**, **API Testing**, and **Cloud Security**.  
-This GitHub showcases **writeups**, **script snippets**, and **projects**.
+This GitHub showcases **writeups**, **script snippets**, **projects** and **blogs**.
 
 ---
 
