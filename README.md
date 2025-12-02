@@ -1,11 +1,11 @@
 # 🛡️ Felix Voigt | Cybersecurity Student  
 
 **DE:**  
-Informatikstudent mit Fokus auf **Cybersecurity**, insbesondere **WebApp Security**, **API Testing** und **Cloud Security**.  
+Informatikstudent mit Fokus auf **Cybersecurity**, insbesondere **Offensive Security** und **Red-Teaming**.  
 Auf diesem Profil teile ich **Writeups**, **Script-Snippets**, **Projekte** und **Blogs**.
 
 **EN:**  
-Computer Science student focused on **Cybersecurity**, especially **WebApp Security**, **API Testing**, and **Cloud Security**.  
+Computer Science student focused on **Cybersecurity**, especially **Offensive Security** and **Red-Teaming**.  
 This GitHub showcases **writeups**, **script snippets**, **projects** and **blogs**.
 
 ---
