@@ -16,5 +16,9 @@ This GitHub showcases **writeups**, **script snippets**, **projects** and **blog
 
 ---
 
+**Currently working on:** Fileless Execution via LOLBins + AMSI-Bypass + Basic Persistence Writeup
+
+---
+
 ### 📫 Contact / Kontakt
 📧 [Email](mailto:f3lix.voigt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/felix-voigt-a65040382/)
