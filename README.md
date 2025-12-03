@@ -11,12 +11,12 @@ This GitHub showcases **writeups**, **script snippets**, **projects** and **blog
 ---
 
 ### ⚙️ Tech 
-`Nmap` · `Burp Suite` · `Postman` · `Docker` · `AWS` · `Virtualbox` · `Linux` · `Cursor`
+`Nmap` · `Burp Suite` · `Postman` · `Docker` · `Virtualbox` · `Linux` · `Cursor`
 
 
 ---
 
-**Currently working on:** Fileless Execution via LOLBins + AMSI-Bypass + Basic Persistence Writeup
+**Currently working on:** Fileless Execution via LOLBins + AMSI-Bypass + Persistence Writeup
 
 ---
 
