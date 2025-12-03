@@ -16,7 +16,7 @@ This GitHub showcases **writeups**, **script snippets**, **projects** and **blog
 
 ---
 
-**Currently working on:** Fileless Execution via LOLBins + AMSI-Bypass + Persistence Writeup
+**Currently working on:** Kerberoasting/AD
 
 ---
 
