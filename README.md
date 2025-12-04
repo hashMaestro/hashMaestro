@@ -11,7 +11,7 @@ This GitHub showcases **writeups**, **script snippets**, **projects** and **blog
 ---
 
 ### ⚙️ Tech 
-`Nmap` · `Burp Suite` · `Postman` · `Docker` · `Virtualbox` · `Linux` · `Cursor`
+`Burp Suite` · `Postman` · `Docker` · `Virtualbox` · `Linux` · `Cursor` · `Wireshark`
 
 
 ---
