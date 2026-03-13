@@ -11,9 +11,9 @@ This GitHub showcases **writeups**, **script snippets**, **projects** and **blog
 
 ---
 
-**Currently working on:** WPA/WPA2P Networks
+👨‍💻 **Currently working on:** WPA/WPA2P Networks
 
 ---
 
-### 📫 Contact / Kontakt
+### 📫 Contact
 📧 [Email](mailto:f3lix.voigt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/felix-voigt-a65040382/)
