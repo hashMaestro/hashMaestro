@@ -1,6 +1,5 @@
 # 🛡️ Felix Voigt | Cybersecurity Student  
 
-**EN:**  
 Computer Science student focused on **Cybersecurity**, especially **Offensive Security** and **Red-Teaming**.  
 This GitHub showcases **writeups**, **script snippets**, **projects** and **blogs**.
 
