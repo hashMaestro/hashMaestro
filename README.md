@@ -1,17 +1,10 @@
 # 🛡️ Felix Voigt | Cybersecurity Student  
 
-Computer Science student focused on **Cybersecurity**, especially **Offensive Security** and **Red-Teaming**.  
-This GitHub showcases **writeups**, **script snippets**, **projects** and **blogs**.
+### **Offensive Security** and **Red-Teaming**.  
 
 ---
 
-### ⚙️ Tech 
-`Burp Suite` · `Postman` · `Docker` · `Virtualbox` · `Linux` · `Cursor` · `Wireshark`
-
-
----
-
-👨‍💻 **Currently working on:** WPA/WPA2P Networks
+#### 👨‍💻 Current work: 802.11 architecture, exploitation and mitigation.
 
 ---
 
