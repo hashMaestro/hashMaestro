@@ -1,10 +1,14 @@
 # 🛡️ Felix Voigt | Cybersecurity Student  
 
-### **Offensive Security** and **Red-Teaming**.  
+## **Offensive Security** and **Red-Teaming**.  
 
 ---
 
-#### 👨‍💻 Current work: 802.11 architecture, exploitation and mitigation.
+### 👨‍💻 Current work: 802.11 architecture, exploitation and mitigation.
+
+--- 
+
+### 📡 Blog & Writeups: https://felix-voigt.de
 
 ---
 
