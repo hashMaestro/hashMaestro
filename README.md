@@ -8,7 +8,7 @@
 
 --- 
 
-### 📡 Blog & Writeups: https://felix-voigt.de
+### 📡 Blog & Writeups: [https://felix-voigt.hashnode.dev](https://felix-voigt.hashnode.dev/)
 
 ---
 
