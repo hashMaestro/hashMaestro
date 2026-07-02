@@ -13,4 +13,4 @@
 ---
 
 ### 📫 Contact
-📧 [Email](mailto:f3lix.voigt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/felix-voigt-a65040382/)
+📧 [Email](mailto:f3lix.voigt@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/fvoigt)
