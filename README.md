@@ -1,14 +1,4 @@
-# 🛡️ Felix Voigt | Cybersecurity Student  
-
-## **Offensive Security** and **Red-Teaming**.  
-
----
-
-### 👨‍💻 Current work: 802.11 architecture, exploitation and mitigation.
-
---- 
-
-### 📡 Blog & Writeups: [https://felix-voigt.hashnode.dev](https://felix-voigt.hashnode.dev/)
+### 📡 Writeups: [https://felix-voigt.hashnode.dev](https://felix-voigt.hashnode.dev/)
 
 ---
 
